@@ -3,7 +3,6 @@
 
 A brief introduction to your project: what it does, how it works, and why it's awesome.
 
-[Uploading wp2763910.gif…]()
 
 
 ## 🌟 Features
