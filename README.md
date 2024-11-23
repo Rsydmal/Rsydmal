@@ -1,9 +1,4 @@
-## Hi Im Rusydi Muhammad Akmal 
-- 🔭 I’m currently working on Informatika 
-- 🌱 I’m currently learning University Bengkulu
-- 👯 I’m looking to collaborate on POSPEDA
-- 🤔 I’m looking for help with...
-- 💬 Ask me about TECHNOLOGY
+## Hi Im Rusydi Muhammad Akmal
 
 
 <!--
