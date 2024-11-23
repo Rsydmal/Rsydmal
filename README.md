@@ -1,4 +1,4 @@
-![wp2763910](https://github.com/user-attachments/assets/65cc97d1-8b80-412b-b22d-84d7531df73e)## Hi Im Rusydi Muhammad Akmal
+ Hi Im Rusydi Muhammad Akmal
 # Awesome Project 🚀
 
 A brief introduction to your project: what it does, how it works, and why it's awesome.
